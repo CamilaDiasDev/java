@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.models;
+package br.com.alura.screenmatch;
 
 public class Titulo {
     private String nome;
@@ -57,4 +57,9 @@ public class Titulo {
     public double pegaMedia(){
         return somaDasAvaliacoes / totalDeAvaliacoes;
     }
+
+	public int getClassificacao() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
