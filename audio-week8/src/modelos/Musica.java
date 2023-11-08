@@ -46,4 +46,21 @@ public class Musica{
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	public void reproduz() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setTitulo(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void curte() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
 }
