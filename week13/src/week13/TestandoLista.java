@@ -3,7 +3,7 @@ package week13;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class TestandoListas {
+public class TestandoLista {
 
 	public static void main(String[] args) {
 
